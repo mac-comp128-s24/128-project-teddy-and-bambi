@@ -1,0 +1,40 @@
+Hero,Tank Counters,DPS Counters,Support Counters
+D.Va,"Zarya, Winston","Symmetra, Sojourn, Bastion",Moira
+Doomfist,,"Sombra, Tracer, Bastion, Genji","Ana, Brigitte"
+Junker Queen,Wrecking Ball,Widowmaker,"Ana, Lucio, Kiriko"
+Mauga,"Doomfist, Wrecking Ball, Mauga",Sombra,"Zenyatta, Kiriko"
+Orisa,"Zarya, D.Va","Mei, Echo",Moira
+Ramattra,Roadhog,"Reaper, Tracer, Pharah, Genji, Cassidy",Kiriko
+Reinhardt,,"Sombra, Cassidy, Mei, Junkrat, Pharah",Zenyatta
+Roadhog,"Wrecking Ball, Roadhog","Reaper, Echo, Junkrat",Ana
+Sigma,"Ramattra, Roadhog","Genji, Tracer, Sombra",
+Winston,Zarya,"Junkrat, Pharah, Bastion","Ana, Brigitte"
+Wrecking Ball,"Roadhog, Doomfist","Mei, Sombra","Ana, Brigitte"
+Zarya,D.Va,"Hanzo, Widowmaker, Cassidy, Tracer",Zenyatta
+Ashe,Zarya,"Genji, Tracer, Widowmaker","Ana, Kiriko"
+Bastion,"Zarya, Orisa","Junkrat, Pharah, Genji, Tracer",Ana
+Cassidy,"Reinhardt, Winston","Genji, Cassidy",Ana
+Echo,"Winston, Zarya","Ashe, Cassidy, Soldier:76, Widowmaker",
+Genji,"Winston, Zarya","Symmetra, Mei","Moira, Ana"
+Hanzo,"D.Va, Wrecking Ball","Widowmaker, Genji",Lucio
+Junkrat,"Zarya, Wrecking Ball","Cassidy, Soldier:76","Lucio, Brigitte, Lifeweaver"
+Mei,D.Va,"Sombra, Pharah, Echo",Kiriko
+Pharah,D.Va,"Soldier:76, Cassidy, Ashe, Widowmaker",Baptiste
+Reaper,Zarya,"Pharah, Echo, Junkrat, Widowmaker",Ana
+Sojourn,"Winston, Mauga","Genji, Tracer",Lucio
+Soldier:76,Roadhog,"Ashe, Cassidy, Genji, Junkrat","Ana, Lucio"
+Sombra,,"Pharah, Junkrat, Hanzo, Mei","Kiriko, Ana"
+Symmetra,"Winston, Mauga","Pharah, Junkrat, Echo",
+Torbjörn,D.Va,"Junkrat, Ashe",
+Tracer,"Winston, Mauga","Symmetra, Torbjorn, Mei","Brigitte, Moira"
+Widowmaker,"D.Va, Winston","Genji, Tracer, Sombra",Zenyatta
+Ana,"Winston, Ramattra","Echo, Pharah, Tracer",Kiriko
+Baptiste,,"Cassidy, Ashe, Mei",Lucio
+Brigitte,,"Pharah, Echo, Junkrat",
+Illari,"Orisa, Zarya, D.Va","Cassidy, Ashe, Widowmaker","Baptiste, Lifeweaver, Lucio"
+Kiriko,Roadhog,"Tracer, Sombra, Genji, Mei",
+Lifeweaver,,"Sombra, Soldier:76",Lucio
+Lucio,"Winston, Roadhog","Soldier:76, Cassidy, Symmetra, Torbjorn, Mei",Moira
+Mercy,"Winston, Roadhog","Echo, Cassidy, Widowmaker, Genji, Tracer",
+Moira,"Roadhog, Zarya","Echo, Pharah, Widowmaker, Junkrat, Mei, Ashe",Ana
+Zenyatta,,"Junkrat, Pharah, Cassidy, Widowmaker, Ashe, Hanzo, Tracer","Kiriko, Zenyatta"
